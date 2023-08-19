@@ -48,7 +48,7 @@ const Footer = () => {
                 <div className="footer__copyrights-links">
                     <Link
                     href='/'
-                    className="text-gray-500"
+                    className="text-gray-500 px-6"
                     >
                         Privacy Policy
                     </Link>
